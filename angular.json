@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-email-app1"
+    }
+  },
+  "defaultProject": "my-email-app1",
+  "cli": {
+    "analytics": false
+  }
 }
