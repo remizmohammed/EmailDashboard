@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-email-app1"
+    }
+  },
+  "defaultProject": "my-email-app1",
+  "cli": {
+    "analytics": "5cebeab0-bf49-4d40-9278-5a03a8a59e4d"
+  }
 }
